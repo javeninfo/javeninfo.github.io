@@ -1,7 +1,7 @@
 title: "Welcome"
 email: '910647316@qq.com'
 description: "您好，我是宁佳文"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog"  # the subpath of your site, e.g. /blog
 url: "http://javen.info" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: # 'jamigibbs'
 github_username: 'javeninfo'
