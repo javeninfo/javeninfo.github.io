@@ -84,4 +84,4 @@ enable_contact: true
 enable_nav: true
 nav_item:
   - { url: '/', text: '主页' }
-  - { url: '/about', text: '关于我' }
+  - { url: '/about', text: '关于我'}
