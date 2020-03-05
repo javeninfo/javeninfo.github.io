@@ -4,9 +4,9 @@ description: "我是个出色的销售,圆圆的脸,短短的头发"
 deschome: "javen的主页"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://javen.info" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
+twitter_username: # 'jamigibbs'
 github_username: 'javeninfo'
-medium_username: 'blog.jamigibbs.com'
+medium_username: # 'blog.jamigibbs.com'
 
 # Build settings
 markdown: kramdown
