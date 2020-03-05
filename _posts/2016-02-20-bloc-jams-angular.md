@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: '第四篇博客'
 date: 2016-02-20 14:15:00
 categories: development
