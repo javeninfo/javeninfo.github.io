@@ -1,6 +1,7 @@
 title: "你好，我是宁佳文"
 email: 'jami0821@gmail.com'
 description: "我是个出色的销售,圆圆的脸,短短的头发"
+deschome: "javen的主页"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://javen.info" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'jamigibbs'
